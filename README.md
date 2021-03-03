@@ -1,9 +1,12 @@
 # fsv-front-end
 
+## Vue 
+Already know HTML, CSS and JavaScript? Read the guide and start building things in no time!
+
 ## Project setup
-```
+
 npm install
-```
+
 
 ### Compiles and hot-reloads for development
 
