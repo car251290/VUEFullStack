@@ -18,6 +18,8 @@ With  HTTP utility methods and middleware at your disposal, creating a robust AP
 ### Compiles and hot-reloads for development
 
 the server to use tools as express or node.js for getting the server running and npm run serve
+## Rest API
+the REST API as a client (e.g. cURL, browser, or also a React.js application), you could retrieve all users from the database with a HTTP GET method on the /users URI or, on the same resource, create a new user with a HTTP POST method.
 
 ## Tools
 
