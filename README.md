@@ -15,11 +15,6 @@ https://expressjs.com/en/5x/api.html
 ## APIs
 With  HTTP utility methods and middleware at your disposal, creating a robust API is quick and easy.
 
-## Project setup
-
-npm install
-
-
 ### Compiles and hot-reloads for development
 
 the server to use tools as express or node.js for getting the server running and npm run serve
@@ -29,5 +24,6 @@ the server to use tools as express or node.js for getting the server running and
 Node.js
 Express.js
 Vue.js
+
 
 
